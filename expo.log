@@ -1,0 +1,18 @@
+Starting project at /app
+Starting Metro Bundler
+
+The following packages should be updated for best compatibility with the installed expo version:
+  react-native-safe-area-context@5.7.0 - expected version: ~5.6.2
+  react-native-screens@4.24.0 - expected version: ~4.23.0
+Your project may not work correctly until you install the expected versions of the packages.
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web ./index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web ./index.js ▓▓▓▓▓▓▓▓▓▓░░░░░░ 64.5% (156/345)
+Web ./index.js ▓▓▓▓▓▓▓▓▓▓▓░░░░░ 73.2% (445/520)
+Web ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.9% (741/741)
+Web Bundled 10883ms index.js (741 modules)
+ LOG  [web] Logs will appear in the browser console
+Web ./index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 42ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
